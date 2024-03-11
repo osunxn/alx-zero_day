@@ -1,5 +1,2 @@
-# My Project
-
-Welcome to my project! This repository contains the source code and documentation for my awesome project.
-
-Happy coding!
+Alx Zero day. An assignment to help us get used to vagrant and the virtualbox.
+100% optional
